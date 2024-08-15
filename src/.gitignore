@@ -1,5 +1,7 @@
 # Bỏ qua thư mục .vscode
 .vscode/
 
+
+src/public/css
 # Bỏ qua thư mục node_modules
 node_modules/
